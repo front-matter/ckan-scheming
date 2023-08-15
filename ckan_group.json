@@ -1,6 +1,6 @@
 {
   "scheming_version": 1,
-  "group_type": "goals",
+  "group_type": "goal",
   "about_url": "http://github.com/front-matter/ckanext-scheming",
   "fields": [
     {
